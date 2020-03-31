@@ -1,6 +1,6 @@
 License (Some parts were copied from MIT license) 
 
-Copyright (c) 2020 davidplpl
+Copyright (c) 2020 davidplpl, https://github.com/davidplpl/dup7db
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files or data files (the "Software"), to deal
@@ -13,6 +13,7 @@ furnished to do so, subject to the following conditions:
 copies or substantial portions of the Software
 2. It is not allowed to try to recover identity details of patients.
 3. If you use data or software from this repository you must notify the publisher by sending an email to dup7db@gmail.com
+4. You need to cite this webpage: Dup7DB at: https://github.com/davidplpl/dup7db
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
