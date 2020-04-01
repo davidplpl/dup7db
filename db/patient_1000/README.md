@@ -11,4 +11,4 @@
 - Protocols: T2(FLAIR+FSE+SWI) , T1(FLAIR) , DWI, MRS TE=35
 - Findings: 1. Normal Brain. 2. Thicker mucos in the paranasal sinuses.
 - Sample image from the scan: 
-[![img](patient_1000_MRI_Example.png)]
+[![img](./patient_1000_MRI_Example.png)]
