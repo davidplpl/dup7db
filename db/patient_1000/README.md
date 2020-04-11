@@ -6,7 +6,8 @@
 - More details in: ![summary_age_6.5.csv](summary_age_6.5.csv)
 
 ## Blood Tests
-- All blood tests from age 0 to 6.2 can be found here: ![blood_tests_Age0_to_6.2.csv](./blood_test/blood_tests_Age0_to_6.2.csv)
+- All blood tests from age 0 to 6.2 years can be found here: ![blood_tests_Age0_to_6.2.csv](./blood_test/blood_tests_Age0_to_6.2.csv)
+
 ## Hair Metals Test
 - ![Link](hair_metals)
 
