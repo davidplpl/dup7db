@@ -13,4 +13,8 @@
 - Sample image from the scan: 
 ![Example image from patient 1000](patient_1000_MRI_Example.png)
 
+## Metals Hair Test
+- ![Link](hair_metals)
+  
+
 
