@@ -4,6 +4,7 @@
 - 7q11.23 Duplication Syndrome.
 - Autism
 - More details in: summary_age_6.5.csv
+![summary_age_6.5](summary_age_6.5.csv)
 
 ## Brain MRI scan link:
 - https://drive.google.com/open?id=1D7sGSed6d45Z9WaWbtl3MqXl_Kjv-qTe
@@ -12,3 +13,5 @@
 - Findings: 1. Normal Brain. 2. Thicker mucos in the paranasal sinuses.
 - Sample image from the scan: 
 ![Example image from patient 1000](patient_1000_MRI_Example.png)
+
+
