@@ -1,4 +1,4 @@
-# Pateint_1000
+# Patient_1000
 
 ## Main Symptoms
 - 7q11.23 Duplication Syndrome.
