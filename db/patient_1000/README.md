@@ -16,7 +16,8 @@
 - High levels of Glyphosate were found
 
 ## Brain MRI:
-- Link to MRI images: https://drive.google.com/open?id=1D7sGSed6d45Z9WaWbtl3MqXl_Kjv-qTe
+- Link to MRI images (Dicom format): https://drive.google.com/open?id=1D7sGSed6d45Z9WaWbtl3MqXl_Kjv-qTe
+- Link to MRI images (jpeg format): https://drive.google.com/drive/folders/1FIy3as54KPS7kRKD7xtS-Z_qtdDfEIrs?usp=sharing
 - Done at age 6 and 4 months.
 - Protocols: T2(FLAIR+FSE+SWI) , T1(FLAIR) , DWI, MRS TE=35
 - Findings: 1. Normal brain scan. 2. Thicker mucos in the paranasal sinuses.
